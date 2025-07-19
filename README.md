@@ -1,2 +1,2 @@
-# thumby-screenshare
-Share your screen to the thumby (with no audio and horrible quality).
+# Thumby Screenshare
+Uses serial to stream screen data to the thumby via the same system that the Thumby Code Editor uses.
